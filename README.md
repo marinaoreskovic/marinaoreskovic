@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Marina</h1>
 <h3 align="center">Developer Trainee</h3>
 
-- 🌱 I’m currently learning **C# .NET**
+- 🎓   Studying Computer Science and Mathematics at University of Massachusetts Amherst
 
 - 📫 How to reach me **marinacelesteoreskovic@gmail.com**
 
