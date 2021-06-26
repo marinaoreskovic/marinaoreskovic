@@ -3,9 +3,6 @@
 <h1 align="center">Hi 👋, I'm Marina</h1>
 <h3 align="center">Developer Trainee</h3>
 
-- 🎓   Studying 
-
-- 📫 How to reach me **marinacelesteoreskovic@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
