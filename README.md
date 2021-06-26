@@ -45,7 +45,7 @@
 
 <a href="https://github.com/marinaoreskovic">
   
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<marinaoreskovic>&theme=<radical>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/<>/?username=<marinaoreskovic>&theme=<radical>" />
 </a>
 
 <br/>
