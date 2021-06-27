@@ -18,6 +18,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marinaoreskovic&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="marinaoreskovic" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marinaoreskovic&show_icons=true&theme=material-palenight" alt="marinaoreskovic" /></p>
-
-
-
+<br>
+<p align="center">
+<a target="_blank" href="https://www.linkedin.com/in/marinaoreskovic"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:marinacelesteoreskovic@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a><p>
