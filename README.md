@@ -1,6 +1,4 @@
 
-
-<p align="center"><a href="https://www.gifsanimados.org/cat-lineas-562.htm"><img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0524.gif" border="0" alt="linea-imagen-animada-0524" /></a></p>
 <h1 align="center">Hi 👋🏻, I'm Marina</h1>
 <h3 align="center">Developer Trainee</h3>
 <br>
