@@ -1,13 +1,13 @@
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marinaoreskovic&label=Profile%20views&color=0e75b6&style=flat" alt="marinaoreskovic" /> </p>
 <h1 align="center">Hi 👋🏻, I'm Marina Oreskovic</h1>
 <h3 align="center">A passionate Full Stack Developer 👩🏼‍💻 from Buenos Aires, Argentina</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marinaoreskovic&label=Profile%20views&color=0e75b6&style=flat" alt="marinaoreskovic" /> </p>
-
+<br/>
 <h2>About me</h2>
 Developer with two and a half years of experience in diverse projects for a leading technology company. My ability to work in teams and under pressure has been crucial in meeting the deadlines and objectives set for each project. Committed to professional growth and constant updating in the latest technologies.
-
-<h2 style="border-bottom: 0;">Skills</h2>
+<br/>
+<br/>
+<h2>Skills</h2>
 <h3>Programming Languages</h3>
 <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
 <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
@@ -27,10 +27,10 @@ Developer with two and a half years of experience in diverse projects for a lead
 <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
 <br/>
 <br/>
-
-<h3 align="left">🤝 Connect with me:</h3>
+<h2>Connect with me</h2>
 <p align="left">
 <a href="https://linkedin.com/in/marinaoreskovic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marinaoreskovic" height="30" width="40" /></a>
 </p>
-<br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marinaoreskovic&show_icons=true&locale=en&layout=compact" alt="marinaoreskovic" /></p>
+<br/>
+<br/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=marinaoreskovic&show_icons=true&locale=en&layout=compact" alt="marinaoreskovic" /></p>
