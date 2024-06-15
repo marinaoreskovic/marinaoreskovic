@@ -5,8 +5,9 @@
 <br/>
 <h2>About me</h2>
 I have nearly 3 years of experience in developing digital banking solutions for financial institutions.
+<br/>
 Currently, I am studying the third year of the Bachelor's degree in Systems Analyst at the Universidad de Buenos Aires (UBA) and I am committed to staying updated in my field.
-
+<br/>
 I am passionate about learning new technologies and applying my knowledge to help others achieve their goals. I am a professional committed to quality and excellence in everything I do. I enjoy working in a team and have effective communication and collaboration skills.
 <br/>
 <br/>
@@ -27,12 +28,6 @@ I am passionate about learning new technologies and applying my knowledge to hel
 <h3>Others</h3>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
-<br/>
-<br/>
-<h2>Connect with me</h2>
-<p align="left">
-<a href="https://linkedin.com/in/marinaoreskovic"><img alt="marinaoreskovic" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  /></a>
-</p>
 <br/>
 <br/>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=marinaoreskovic&show_icons=true&locale=en&layout=compact" alt="marinaoreskovic" /></p>
