@@ -4,7 +4,10 @@
 <h3 align="center">A passionate Full Stack Developer 👩🏼‍💻 from Buenos Aires, Argentina</h3>
 <br/>
 <h2>About me</h2>
-Developer with two and a half years of experience in diverse projects for a leading technology company. My ability to work in teams and under pressure has been crucial in meeting the deadlines and objectives set for each project. Committed to professional growth and constant updating in the latest technologies.
+I have nearly 3 years of experience in developing digital banking solutions for financial institutions.
+Currently, I am studying the third year of the Bachelor's degree in Systems Analyst at the Universidad de Buenos Aires (UBA) and I am committed to staying updated in my field.
+
+I am passionate about learning new technologies and applying my knowledge to help others achieve their goals. I am a professional committed to quality and excellence in everything I do. I enjoy working in a team and have effective communication and collaboration skills.
 <br/>
 <br/>
 <h2>Skills</h2>
