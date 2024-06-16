@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Full Stack Developer 👩🏼‍💻 from Buenos Aires, Argentina</h3>
 <br/>
 <h2>About me</h2>
-I have nearly 3 years of experience in developing digital banking solutions for financial institutions.
+I have nearly 3 years of experience in developing digital solutions for financial institutions.
 <br/>
 Currently, I am studying the third year of the Bachelor's degree in Systems Analyst at the Universidad de Buenos Aires (UBA) and I am committed to staying updated in my field.
 <br/>
