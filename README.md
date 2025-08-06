@@ -15,7 +15,7 @@ I specialize in continuous improvement, technical efficiency, and collaborative 
 - 🔭 Currently working at **Addalitica** as a Full Stack Developer.
 - 🎓 Studying Systems Analysis at the **University of Buenos Aires (UBA)**.
 - 🌱 Always learning and improving my skills in both frontend and backend development.
-- ⚡ I love creating functional and elegant software that makes people's lives easier.
+- ⚡ I love creating functional and user-friendly solutions that make people's lives easier.
 
 ---
 
